@@ -1,0 +1,17 @@
+.theme{
+    position: absolute;
+    right: 0;
+    margin: 150px;
+    width: 50px;
+    height: 55;
+}
+.cont{
+    width: 70%;
+    float: left;
+    text-align: left;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    line-height: 2;
+    position: absolute;
+    margin: 200px 50px;
+}
